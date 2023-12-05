@@ -12,7 +12,6 @@ An assortment of Python scripts leveraging yfinance for analyzing historical sto
 ![intro.py for INFY](Images/candle%20-%20INFY.jpg)
 
 **Price Prediction:** Utilize ml.py to predict stock prices for upcoming quarters based on historical data and machine learning models.
-![intro.py for INFY](Images/ml%20-%20INFY.jpg)
 
 ## Scripts Overview
 **intro.py :** This script prompts users to input a stock symbol, start date, and end date to visualize historical stock prices within the specified date range.
