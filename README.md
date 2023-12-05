@@ -3,7 +3,7 @@ An assortment of Python scripts leveraging yfinance for analyzing historical sto
 
 # Usage 
 **Fetch Historical Data:** Run intro.py to input a stock symbol, start date, and end date for visualizing historical stock prices.
-![intro.py for INFY](Images/intro - INFY.jpg)
+![intro.py for INFY](Images/intro%20-%20INFY.jpg)
 
 **Moving Averages:** Execute rolling.py to calculate moving averages over specified windows for trend analysis.
 ![intro.py for INFY](Images/rolling - INFY.jpg)
