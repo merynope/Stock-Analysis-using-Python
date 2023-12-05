@@ -6,13 +6,13 @@ An assortment of Python scripts leveraging yfinance for analyzing historical sto
 ![intro.py for INFY](Images/intro%20-%20INFY.jpg)
 
 **Moving Averages:** Execute rolling.py to calculate moving averages over specified windows for trend analysis.
-![intro.py for INFY](Images/rolling - INFY.jpg)
+![intro.py for INFY](Images/rolling%20-%20INFY.jpg)
 
 **Candlestick Charts:** Use candle.py to generate candlestick charts and visualize stock movements within specific date ranges.
-![intro.py for INFY](Images/candle - INFY.jpg)
+![intro.py for INFY](Images/candle%20-%20INFY.jpg)
 
 **Price Prediction:** Utilize ml.py to predict stock prices for upcoming quarters based on historical data and machine learning models.
-![intro.py for INFY](Images/ml - INFY.jpg)
+![intro.py for INFY](Images/ml%20-%20INFY.jpg)
 
 ## Scripts Overview
 **intro.py :** This script prompts users to input a stock symbol, start date, and end date to visualize historical stock prices within the specified date range.
